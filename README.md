@@ -11,7 +11,7 @@ Este tem como objetivo testar os conhecimentos em estrutura de dados com duas at
 
 ## Como Executar
 
-1. [Clone o Repositório:](https://github.com/cairon-henrique-60/Perceptron_Simples.git)
+1. [Clone o Repositório:](https://github.com/cairon-henrique-60/TrabalhoEstruturaDeDados)
 
 2. Instale as Dependências: pip install
 
