@@ -17,6 +17,4 @@ Este tem como objetivo testar os conhecimentos em estrutura de dados com duas at
 
 3. Execute o Script: main.py
 
-RU com uma rede neural! Se tiver dúvidas ou sugestões, não hesite em entrar em contato.
-
 Divirta-se codificando! 🚀
